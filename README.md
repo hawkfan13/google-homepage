@@ -10,4 +10,4 @@ The biggest challenge for me here was just getting started to be honest, I feel 
 
 Not only that but finding an area to start was challenging as well, I found it constructive to assemble the webpage in blocks rather than scattering around.
 
-I will probably come back and update this depending on how the rest of thr course goes for me.
+I will probably come back and update this depending on how the rest of the course goes for me.
